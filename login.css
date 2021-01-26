@@ -1,0 +1,56 @@
+{
+    margin: Box;
+    padding:
+}
+html, body{
+    height: 100%;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    border-radius: 10%;
+    height: 50%;
+    background-color: white;
+    width: 25%;
+}
+ form{
+     display:flex;
+     flex-direction: column;
+     align-items: center;
+     width: 100%;
+ }
+ img{
+     width: 50%;
+     margin-bottom: 10%;
+ }
+
+ #username, #password{
+     width: 90%;
+     height: 35px;
+     margin-bottom: 3%;
+     border: 1px solid ;
+     border-radius: 3px;
+     padding-left: 5px;
+     outline: none;
+ }
+
+ .login{
+     width: 90%;
+     height: 35px;
+     margin-bottom: 3%;
+     border: 1px solid;
+     border-radius: 3px;
+     background-color: rgb(39, 131, 236);
+     color: white;
+     cursor:pointer;
+     outline: none;
+ }
