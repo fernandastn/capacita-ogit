@@ -78,6 +78,7 @@ img{
     align-content: center;
     
     
+    
 }
 
 
@@ -88,6 +89,7 @@ img{
     margin-left: 500x;
     flex-direction: row;
     display:flex;
+    margin-left: 50px;
     
 }
 
@@ -98,6 +100,13 @@ img{
     margin-left:580px;
 
 
+}
+
+h1{
+    height: 80px;
+    width: 30px;
+    font-size: 18px;
+    margin-left: 210px;
 }
 
 .opinion{
